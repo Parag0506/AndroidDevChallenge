@@ -39,50 +39,50 @@ We need better methods for communication in the future, we can’t just rely on 
   
   
 ***How Google could help us achieve the goal :**  
->> 1. **Assign us a Mentor for the project**   
->> 2. **Some software could be made free for experimenting purposes**  
->> 3. **Help us reach a wide audience**  
->> 4. **Help in spreading the technology to every part of the world and make it feasible**  
->> 5. **Data set for the project**  
+1. **Assign us a Mentor for the project**   
+2. **Some software could be made free for experimenting purposes**  
+3. **Help us reach a wide audience**  
+4. **Help in spreading the technology to every part of the world and make it feasible**  
+5. **Data set for the project**  
 
 
 
 
 
 **Timeline:**
-*By november 2019 :
-	Project structuring and setup
-	Android Application beta model
-	Research and Learning*
-
-*December 2019:
-	Finalising the best possible method for the application
-	Data Acquiring and cleaning
-	Documenting and Training Models
-
-*January  2020:
-	Development and cloud integration
-
-*February 2020 :
-Development and UI/UX designs
-
-*March 2020 :
-	Testing and Beta Program
-
-*April 2020 :
-	Testing and Deployment*
- 
-
-
-
-**Tell us about you. 
-A great idea is just one part of the equation; we also want to learn a bit more about you. Share with us some of your other projects so we can get an idea of how we can assist you with your project.**
-
-*Hello ! I am Parag Ghorpade a Third year computer Engineering Student in India.
-I love coding and working on various Machine Learning projects. The projects I have done so far are mainly based on Machine Learning and Tensorflow. I have worked on Self Driving cars, Face recognition, Text recognition projects. Some were coded from Scratch and some using Cloud and APIs. 
-I recently started developing android applications, because I wanted a way to deploy my ML models. 
-I am a Developer student clubs - Lead of my campus, and have worked closely with professional people to bring the learning to our college.
-I have also been involved with GDG -Pune, and I am glad to have their mentoring for almost everything in my career. It feels like a family to be at GDG and talk to like minded people, working to contribute to the society.
-We want to solve real world problems and make the solutions available to all. Keeping this in mind I would like to open source the project for the community.
-I have recently started developing some open source projects and would love to be a key contributor.. 
+  
+**By november 2019 :**
+> Project structuring and setup  
+> Android Application beta model  
+> Research and Learning  
+  
+**December 2019:**
+>Finalising the best possible method for the application  
+>Data Acquiring and cleaning  
+>Documenting and Training Models  
+  
+**January  2020:**
+>Development and cloud integration
+  
+**February 2020 :**
+>Development and UI/UX designs
+  
+**March 2020 :**
+>Testing and Beta Program
+  
+**April 2020 :**
+>Testing and Deployment*
+   
+  
+  
+**Tell us about you.  
+A great idea is just one part of the equation; we also want to learn a bit more about you. Share with us some of your other projects so we can get an idea of how we can assist you with your project.**  
+  
+*Hello ! I am Parag Ghorpade a Third year computer Engineering Student in India.  
+I love coding and working on various Machine Learning projects. The projects I have done so far are mainly based on Machine Learning and Tensorflow.  I have worked on Self Driving cars, Face recognition, Text recognition projects. Some were coded from Scratch and some using Cloud and APIs.  
+I recently started developing android applications, because I wanted a way to deploy my ML models.  
+I am a Developer student clubs - Lead of my campus, and have worked closely with professional people to bring the learning to our college.  
+I have also been involved with GDG -Pune, and I am glad to have their mentoring for almost everything in my career.  It feels like a family to be at GDG and talk to like minded people, working to contribute to the society.  
+We want to solve real world problems and make the solutions available to all. Keeping this in mind I would like to open source the project for the community.  
+I have recently started developing some open source projects and would love to be a key contributor.  
 I have been thinking about this project for quite some time now, and I am willing to collaborate with everyone to make it possible.*
