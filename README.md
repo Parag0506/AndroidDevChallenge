@@ -1,5 +1,5 @@
 # AndroidDevChallenge
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Yaktocat](https://github.com/Parag0506/AndroidDevChallenge/blob/master/assets/androidDevChallenge.png)
 Android application for translating Sign language to Text or speech
 Tell us what your idea is. 
 Describe in 250 words what the feature or service will do and how you’ll use Machine Learning to push the bar:
