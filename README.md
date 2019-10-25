@@ -38,7 +38,7 @@ We need better methods for communication in the future, we can’t just rely on 
   
 <br/>
 
-***How Google could help us achieve the goal :**  
+**How Google could help us achieve the goal :**  
 1. **Assign us a Mentor for the project**   
 2. **Some software could be made free for experimenting purposes**  
 3. **Help us reach a wide audience**  
@@ -68,7 +68,7 @@ We need better methods for communication in the future, we can’t just rely on 
 >Testing and Beta Program
   
 **April 2020 :**
->Testing and Deployment*
+>Testing and Deployment
 <br/>
 
 **Tell us about you.  
