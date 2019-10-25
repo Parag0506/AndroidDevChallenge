@@ -6,6 +6,7 @@
 Describe in 250 words what the feature or service will do and how you’ll use Machine Learning to push the bar:**  
 <br/>
 <br/>
+
 *I plan to implement machine learning model using Firebase and Tensorflow lite in the app I am developing.  
 I want to help bridge the gap between Deaf,  Mute and the people who can hear and speak.  
 The sign language is pretty complex to understand, and most of the population isn’t educated it, hence there’s a gap between the two people.  
@@ -20,12 +21,14 @@ The uniqueness of this project is that, it just requires the camera on person’
 Similarly a text can be converted into animated sign language for the deaf to understand.*  
 <br/>
 <br/>
+
 **Tell us how you plan on bringing it to life.   
 Describe where your project is, how you could use Google’s help in the endeavor, and how you plan on using On-Device ML technology to bring the concept to life. The best submissions have a great idea combined with a concrete path of where you plan on going, which should include:**  
 1. **any potential sample code you’ve already written,**
 2. **a list of the ways you could use Google’s help,** 
 3. **as well as the timeline on how you plan on bringing it to life by May 1, 2020.**
-<br/>    
+<br/>
+
 *I just started working on the project. I have been Learning all the technologies from Machine Learning to Android Development. To speed up the process, I have included some friends with common interests. We really hope to solve the problem and hope to make this product widely accessible. In future, we are planning to make a portable device like Google glass to automatically do the work.   
 Sample code is written in Android and currently we are in experimenting phase, trying out different things to make sure the best method is used for the purpose.  
 We found that Google cloud’s vision API is very accurate to do such work, the only constraint is that it needs internet connection.  
@@ -33,7 +36,8 @@ If possible we would like to make it on-device application, which wouldn’t alw
 There are around 500 million deaf people in the world and this number is expected to increase to 900 million by 2050. 
 We need better methods for communication in the future, we can’t just rely on ancient methods to communicate, which essentially is the most important part of human life.*  
   
-<br/>  
+<br/>
+
 ***How Google could help us achieve the goal :**  
 1. **Assign us a Mentor for the project**   
 2. **Some software could be made free for experimenting purposes**  
@@ -41,6 +45,7 @@ We need better methods for communication in the future, we can’t just rely on 
 4. **Help in spreading the technology to every part of the world and make it feasible**  
 5. **Data set for the project**  
 <br/>
+
 **Timeline:**
   
 **By november 2019 :**
@@ -64,7 +69,8 @@ We need better methods for communication in the future, we can’t just rely on 
   
 **April 2020 :**
 >Testing and Deployment*
-<br/>  
+<br/>
+
 **Tell us about you.  
 A great idea is just one part of the equation; we also want to learn a bit more about you. Share with us some of your other projects so we can get an idea of how we can assist you with your project.**  
   
