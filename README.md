@@ -1,5 +1,5 @@
 # AndroidDevChallenge
-![Image of Yaktocat](https://github.com/Parag0506/AndroidDevChallenge/blob/master/assets/androidDevChallenge.png)
+![Image of AndroidDevChallenge](https://github.com/Parag0506/AndroidDevChallenge/blob/master/assets/androidDevChallenge.png)
 ### Android application for translating Sign language to Text or speech
 
 
