@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_text_fields_black_24dp"
+            android:title="Text Detection" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/ic_face_black_24dp"
+            android:title="Face Detection" />
+        <item
+            android:id="@+id/nav_slideshow"
+            android:icon="@drawable/ic_supervisor_account_black_24dp"
+            android:checked="true"
+            android:title="About us" />
+        <item
+            android:id="@+id/nav_tools"
+            android:icon="@drawable/ic_favorite_black_24dp"
+            android:title="Rate us"/>
+    </group>
+</menu>
